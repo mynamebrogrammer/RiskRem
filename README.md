@@ -58,6 +58,4 @@ The script will read the questions from `client_questions.csv`, use the local LL
 
 ## Security and Privacy
 
-- RiskRem is designed with security and privacy in mind. By running entirely on-premises, it ensures that sensitive information never leaves your environment. All processing is done locally, and no data is sent to external servers or cloud providers.
-
 - This repo uses a .gitignore file to exclude sensitive files and directories from being tracked by Git. Make sure to review the .gitignore file and add any additional sensitive files or directories that should not be included in version control.
